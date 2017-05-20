@@ -1,0 +1,16 @@
+*.jardesc
+*~
+bin/
+doc/*
+*.matrix
+*.bp
+/README
+/someyeah
+/TestRNAData.dat.res
+/TestRNAData.dat.res.mpd
+/TestRNAData.dat.res.weighted
+/TestRNAData.folds
+/VARNA.class
+/VARNA.java
+/VARNA.js
+/VARNALinks.csv
